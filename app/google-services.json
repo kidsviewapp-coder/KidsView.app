@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719380987810",
+    "project_id": "kidsviewwithparentcontrol",
+    "storage_bucket": "kidsviewwithparentcontrol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719380987810:android:6d9ead8f7b41b6d4f83cfb",
+        "android_client_info": {
+          "package_name": "why.xee.kidsview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkrUFy5X5fNgTJdd6ODiQ2pUADWwvqj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719380987810:android:2a60247a36284095f83cfb",
+        "android_client_info": {
+          "package_name": "why.xee.kidsview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkrUFy5X5fNgTJdd6ODiQ2pUADWwvqj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
